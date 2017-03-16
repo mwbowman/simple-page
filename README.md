@@ -1,5 +1,4 @@
 # simple-page
 
 link to live site: https://mwbowman.github.io/simple-page/
-
-<iframe src="https://docs.google.com/spreadsheets/d/1Ojl1VZANecThvd2IyTqMXa-1PXQMp3AV_bQfJHgVJrQ/pubhtml?gid=1395052156&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1Ojl1VZANecThvd2IyTqMXa-1PXQMp3AV_bQfJHgVJrQ/pubchart?oid=1316400488&amp;format=interactive"></iframe>
